@@ -8,11 +8,8 @@ They could be asked to create a production plant for any type of product ranging
 
 Your task is to create a flexible structure that could be used in any production line. This structure would then allow easy modification to handle different products. Add a custom footer
 
-NOTE: For the documentation use the Doc folder and click in index.html
 
-https://github.com/delcastGitHub/OOP_Program_Release_Candidate_Final-Rev1/blob/master/doc/index.html
-
-
+##                                                                                                              
 ## UML Diagram
 
 ![screen shot 2018-12-12 at 8 38 28 pm](https://user-images.githubusercontent.com/42677141/49909681-e738db00-fe4d-11e8-9915-cbb16e1d6905.png)
