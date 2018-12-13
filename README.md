@@ -13,6 +13,6 @@ NOTE: For the documentation use the Doc folder and click in index.html
 
 ## UML Diagram
 
-
+![screen shot 2018-12-12 at 8 38 28 pm](https://user-images.githubusercontent.com/42677141/49909681-e738db00-fe4d-11e8-9915-cbb16e1d6905.png)
 
 
