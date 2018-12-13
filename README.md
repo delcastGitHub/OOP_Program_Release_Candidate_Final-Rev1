@@ -10,6 +10,8 @@ Your task is to create a flexible structure that could be used in any production
 
 NOTE: For the documentation use the Doc folder and click in index.html
 
+https://github.com/delcastGitHub/OOP_Program_Release_Candidate_Final-Rev1/blob/master/doc/index.html
+
 
 ## UML Diagram
 
